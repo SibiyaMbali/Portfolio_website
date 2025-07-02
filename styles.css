@@ -142,4 +142,48 @@ h2 {
     color: #ffffff;
     margin-top: 0px;
 }
+.contact-section h1 {
+  font-size: 2em;
+  margin-bottom: 24px;
+  color: #333;
+  text-align: center;
+}
+
+.contact-section p {
+  font-size: 1rem;
+  margin: 12px 0;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: #444;
+}
+
+.contact-section i {
+  color: #0077b5; /* default icon color (LinkedIn blue) */
+  font-size: 1.2em;
+  width: 25px;
+  text-align: center;
+}
+
+.contact-section a {
+  color: #0077b5;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-section a:hover {
+  color: #005983;
+  text-decoration: underline;
+}
+
+.contact-section .note {
+  margin-top: 24px;
+  font-style: italic;
+  color: #666;
+  text-align: center;
+}
+.fa-solid fa-envelope{
+color: #2c3e50;
+}
+
 
