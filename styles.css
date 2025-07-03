@@ -106,19 +106,12 @@ h2 {
   gap: 20px;
   padding: 0;
   color:rgb(233, 32, 233);
+  background: none;
 }
 .Projects{
     color: #ffffff;
     margin-top: 0px;
 }
-/* General Reset 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}*/
-
-
 /* Contact Section Styling */
 .contact-section {
   max-width: 600px;
@@ -210,5 +203,5 @@ h2 {
 }
 
  .contact-section a[href="index.html"]:hover {
-  background-color:purple;
+  background-color:rgb(128, 128, 128);
 }
