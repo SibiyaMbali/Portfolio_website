@@ -202,3 +202,7 @@ h2 {
  .contact-section a[href="index.html"]:hover {
   background-color:white;
 }
+.Skills p {
+  color: #13830f;
+
+}
